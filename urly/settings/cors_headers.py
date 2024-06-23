@@ -1,0 +1,1 @@
+#CORS_ALLOWED_ORIGIN = ['127.0.0.1/']
